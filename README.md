@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @redamancyart
+- 👋 Hi, I’m @cricklette
 - 👀 I’m interested in art and metalcore music!
 - 🌱 I’m currently learning how to code.
 - 💞️ I’m looking to collaborate on building a portfolio website
