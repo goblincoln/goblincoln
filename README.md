@@ -1,2 +1,1 @@
-I am Ella Lincoln, aka Cricklette.
-Artist, aspiring software developer.
+USAF Software Developer
