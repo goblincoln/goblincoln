@@ -3,7 +3,7 @@
 </h1 >
 <h3 align="center">USAF Software Developer | Digital Freelance Artist</h3>
 
-<div>
+<div align="center">
   <img src="https://imgur.com/6oMaQWN.png">
 </div>
 
