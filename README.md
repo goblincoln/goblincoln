@@ -4,7 +4,7 @@
 <h3 align="center">USAF Software Developer | Digital Freelance Artist</h3>
 
 <div>
-  <img src="https://i.imgur.com/fy0SIyM.png">
+  <img src="https://imgur.com/6oMaQWN.png">
 </div>
 
 <div>
