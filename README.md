@@ -15,6 +15,15 @@
     <li>I am especially interested in 3D modeling and programming for games.</li>
     <li>In my free time, I make artwork.</li>
   </ul>
+
+  <h3>Project List:</h3>
+  <ul>
+    <p>Here is a list of projects I am either currently working on or plan to work on.</p>
+    <li>Recipe book with database.</li>
+    <li>Character creator (DnD?)</li>
+    <li>3D Godot 3rd person adventure game.</li>
+    <li>Portfolio website linking to my projects and artwork.</li>
+  </ul>
 </div>
 
 
