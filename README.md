@@ -5,7 +5,7 @@
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
 - I work for the **United States Air Force** as a Software Developer.
 - I specialize in **DevOps engineering**, particularly with **Kubernetes** and **Docker**.
