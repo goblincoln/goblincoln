@@ -7,7 +7,7 @@
 
 ### About Me
 
-- I work for the **United States Air Force** as a Software Developer.
+- I work for the USAF as a Software Developer.
 - I specialize in **DevOps engineering**, particularly with **Kubernetes** and **Docker**.
 - I'm passionate about **containerization**, **game programming**, and modularized code.
 - In my free time, I enjoy creating **digital art**.
