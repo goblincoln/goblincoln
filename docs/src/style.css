@@ -1,0 +1,26 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0;
+    margin: auto;
+    width: 80%;
+    color: rgb(16, 34, 0);
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(57, 107, 57);
+}
+
+a:hover {
+    color: rgb(100, 156, 100);
+    transition: all .2s ease;
+    text-decoration: underline;
+}
